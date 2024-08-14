@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Lokendra Cap1project_REVA_RACE_MSc_CAS
         </a>
       </header>
     </div>
